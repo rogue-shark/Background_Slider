@@ -1,14 +1,14 @@
-<h1 align="center">Rotating Navigation</h1>
+<h1 align="center">Background slider</h1>
 
 
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://rogue-shark.github.io/Background_Slider">
       D E M O
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/rogue-shark/Background_Slider">
       Solution
   </h3>
 </div>
